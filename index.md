@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to codaf blog"
 ---
 
-Check the latest technology trends and contents ...
+Get the latest technology trends, feeds and contents ...
